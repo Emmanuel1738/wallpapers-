@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482036782304",
+    "project_id": "mywallpaperapplication-2f63d",
+    "storage_bucket": "mywallpaperapplication-2f63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482036782304:android:a0b2522227247b5ecc2c85",
+        "android_client_info": {
+          "package_name": "com.moringaschool.mywallpaperapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482036782304-96im0fio329e289n8kfe6g6u32q083j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytwmJXP_Vhv0nHMCJj7crFawGswkRIkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482036782304-96im0fio329e289n8kfe6g6u32q083j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
